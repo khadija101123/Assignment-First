@@ -14,10 +14,8 @@
     background-color: #F5F5F5;
   }
 .btn-primary{
-
 font-size: 18px; 
 color: #006A50;
-
 border-radius: 8px;
 padding: 15px 30px;
 border-style: solid;
@@ -140,6 +138,7 @@ font-weight: semi-bold;
 border-radius: 8px;
 border-color:#5490f5 ;
 border-style: solid;
+color: #FFFFFF ;
 
 }
 .btn-primary2{
@@ -150,6 +149,7 @@ font-weight: semi-bold;
 border-radius: 8px;
 border-color: #09a15c;
 border-style: solid;
+color: #FFFFFF;
 
 }
 .btn-primary3{
@@ -160,6 +160,7 @@ font-weight: semi-bold;
 border-radius: 8px;
 border-color: #ffc239;
 border-style: solid;
+color: #FFFFFF;
 
 }
 .vision-card-description{
@@ -329,6 +330,8 @@ border-style: solid;
     margin: 32px 0 80px 0;
     padding: 48px 24px;
     border-radius: 16px;
+    border-style: solid;
+    border-color: #ececec;
     
    }
    .name{
@@ -348,3 +351,7 @@ border-style: solid;
     background-repeat: no-repeat;
     background-position:top left  ;
    }
+   .button:hover {
+    background-color:#f7bac5
+   }
+   
