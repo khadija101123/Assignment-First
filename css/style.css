@@ -260,6 +260,8 @@ border-style: solid;
 .input-field{
     height: 64px;
     width: 85%;
+    border: none;
+    outline: none;
 }
 .input-container{
  display: flex;
