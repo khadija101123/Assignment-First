@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fira-sans{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+   
+    font-style: normal;
+    
+  
+  }
+  .bg-clour{
+    background-color: #F5F5F5;
+  }
+.btn-primary{
+
+font-size: 18px; 
+color: #006A50;
+
+border-radius: 8px;
+padding: 15px 30px;
+border-style: solid;
+border-color: #006A50;
+
+}
+.nav-layout{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ nav li{
+   list-style-type: none;
+    
+}
+.header{
+    margin: 0 160px;
+    padding: 24px 0;
+}
+.nav-title{
+    font-weight: bold;
+    font-size: 32px;
+}
+
+/* banner-section-styles */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    padding: 80px 100px;
+    margin: 20px 0px 80px;
+    border-radius: 24px;
+}
+.btn-secondary{
+    background-color: #006A50;
+    color: #F5F5F5;
+    padding: 17px 34px;
+    border-radius: 8px;
+    border-color: #006A50;
+    border-style: solid;
+    font-weight: semi-bold;
+    font-size: 18px;
+    margin-top: 24px;
+}
+.banner-discription{
+font-weight: bold;
+font-size: 56px;
+}
+.banner-title{
+    font-weight: medium;
+    font-size: 24px;
+    color: #7d8f87;
+    
+}
+.vision-cards{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+
+
+}
+.vision-section{
+    margin: 0 160px;
+}
+.common-heading{
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E ;
+}
+.common-description{
+    padding:24px 0px 32px ;
+    font-size: 16px ;
+    color: #767676 ;
+}
+.future-vision-card1{
+    background-color: #d5e1f5;
+    border-radius: 16px;
+     /* width: 410.67px; */
+    /* height: 325px; */
+     
+    
+}
+.future-vision-card2{
+background-color: #c6e4d6;
+border-radius: 16px;
+/* width: 410.67px; */
+
+/* width: 410.67px;
+height: 325px; */
+}
+.future-vision-card3{
+background-color: #f7ebcf;
+border-radius: 16px;
+/* width: 410.67px; */
+
+/* width: 410.67px;
+height: 325px; */
+}
+.vision-card-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+/* .img-card{
+    margin: 32px 314px 0 32px;
+} */
+.card-contant{
+    border-radius: 16px;
+    padding: 32px;
+
+}
+.vision-card-description{
+    font-size: 16px;
+    font-weight: regular;
+}
+.btn-primary1{
+background-color: #5490f5;
+padding: 11px 20px;
+font-size: 16px;
+font-weight: semi-bold;
+border-radius: 8px;
+border-color:#5490f5 ;
+border-style: solid;
+
+}
+.btn-primary2{
+background-color: #09a15c;
+padding: 11px 20px;
+font-size: 16px;
+font-weight: semi-bold;
+border-radius: 8px;
+border-color: #09a15c;
+border-style: solid;
+
+}
+.btn-primary3{
+background-color: #ffc239;
+padding: 11px 20px;
+font-size: 16px;
+font-weight: semi-bold;
+border-radius: 8px;
+border-color: #ffc239;
+border-style: solid;
+
+}
+.vision-card-description{
+    padding: 12px 0 64px;
+}
+.img-card{
+    padding: 0 0 25px;
+}
+ .vision-card-description2{
+    padding: 12px 0 64px;
+}
+.recent-news{
+    margin: 0 160px;
+}
+.satelite-card{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    padding: 48px;
+    border-radius: 24px;
+}
+.satelite-img{
+    border-radius: 24px;
+}
+.satelite-title{
+    font-size: 32px;
+    font-weight: bold;
+}
+.date-time{
+    font-size: 16px;
+    font-weight: regular;
+    color: #767676 ;
+
+}
+.satelite-description{
+    font-size: 16px;
+    font-weight: regular;
+    color: #767676 ;
+    padding: 12px 0 32px 0;
+
+}
+.satelite-btn{
+    background-color: #006A50;
+    color: #FFFFFF;
+    padding: 13px 26px;
+    border-radius: 8px;
+    border-color: #006A50;
+    border-style: solid;
+    font-weight: semi-bold;
+    font-size: 18px;
+    margin-top: 24px;
+}
+.satelite-icon{
+    padding: 12px 0;
+}
+.satelite{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+/* donate-for-bd-styles */
+.donate-for-bangladesh{
+    margin: 80px 160px;
+}
+
+.donate-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+.donate-description{
+    padding: 24px 0px 32px 0px;
+    text-align: center ;
+    color: #767676;
+}
+.donate-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+}
+.amount-cnt{
+    font-weight: bold;
+    font-size: 40px;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 16px;
+}
+.tk-bg-clour{
+    background-color: #C6E4D6;
+}
+.btn-done-now{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input-field{
+    height: 64px;
+    width: 85%;
+}
+.input-container{
+ display: flex;
+ justify-content: center;
+  margin-top: 32px;
+}
+/* input {
+    text-align: center;
+  } */
+  ::-webkit-input-placeholder {
+    font-size: 20px;
+    text-align: center;
+  }
+  /* :-moz-placeholder {
+    text-align: center;
+  } */
